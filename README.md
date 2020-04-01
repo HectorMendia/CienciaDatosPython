@@ -8,6 +8,6 @@
 <a href="https://github.com/HectorMendia/CienciaDatosPython/blob/master/Ejercicio_numpy_linalg.ipynb">Tarea 3: Ejercicio numpy y LinAlg </a>
 
 
-<a href="https://github.com/HectorMendia/CienciaDatosPython/blob/master/Ejercicio_numpy_linalg.ipynb">Tarea 3: Ejercicio numpy y LinAlg </a>
+<a href="https://github.com/HectorMendia/CienciaDatosPython/blob/master/Proyecto.ipynb">Proyecto</a>
 
 
